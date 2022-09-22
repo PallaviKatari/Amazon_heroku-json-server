@@ -8,3 +8,4 @@
 ->Have everything up-to-date in your application - maintain GIT
 ->git push heroku master
 ->heroku open
+->create db.json
