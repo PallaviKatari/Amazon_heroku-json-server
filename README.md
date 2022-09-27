@@ -1,3 +1,5 @@
+->npm install -g heroku
+->heroku --version
 ->npm init -> start file(main) -> server.js
 ->npm i json-server
 ->manually create .gitignore,server.js,README.md and paste the codes already which is there in the file
